@@ -1,0 +1,13 @@
+
+Usage:
+
+cd in the keyripper directory and run
+	
+	./keyripper <catid>
+
+all letters in catid has to be uppercase
+
+
+i.e.
+
+	./keyripper BMTCD001
